@@ -4,7 +4,7 @@ function Header() {
     <div className={styles.container}>
       <h1>Contact-App</h1>
       <p>
-        <a href="#">Github</a> | First React Project
+        <a href="https://github.com/Mohammad-Kolivand">Github</a> | First React Project
       </p>
     </div>
   );
